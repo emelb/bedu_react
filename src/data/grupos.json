@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Grupo 1",
+        "zone": "Coyacan",
+        "type": "Urbano",
+        "randezvou": "Oxxo",
+        "days": "LXV",
+        "departure": "19:30",
+        "intro": "This is just a test"
+    },
+    {
+        "name":"Grupo 2",
+        "zone": "Roma",
+        "type": "Deportivo",
+        "randezvou": "7Eleven",
+        "days": "MJ",
+        "departure": "6:30",
+        "intro": "This is just another test"
+    }
+]

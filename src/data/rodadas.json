@@ -1,0 +1,23 @@
+[
+    {
+        "group":"Grupo 1",
+        "destination": "Cuemanco",
+        "type": "Urbano",
+        "randezvou": "Oxxo",
+        "level": "Básico",
+        "departure": "19:30"
+    },
+    {
+        "group":"Grupo 2",
+        "destination": "Chapultec 3",
+        "type": "Deportivo",
+        "randezvou": "Parque Mexico",
+        "level": "Intermedio",
+        "departure": "19:30",
+        "dificulty": {
+            "distance": true,
+            "elevation": true,
+            "pace": false
+        }
+    }
+]
